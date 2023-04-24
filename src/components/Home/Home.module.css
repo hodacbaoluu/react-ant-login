@@ -1,0 +1,9 @@
+.home{
+    background-color: aqua;
+    /* height: 50px; */
+    /* margin: auto 200px; */
+    text-align: center;
+    padding-top: 20px;
+    font-size: x-large;
+    display: block;
+}

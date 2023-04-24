@@ -1,0 +1,13 @@
+.container{
+    text-align: center;
+    margin: auto 500px;
+    padding-top: 200px;
+}
+
+.container > input {
+    margin-bottom: 20px;
+}
+
+.input > input{
+    margin-bottom: 20px;
+}
